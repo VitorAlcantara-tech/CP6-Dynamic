@@ -1,0 +1,69 @@
+{
+  "sinalizados_sem_preco_viavel": [
+    "Q1-002",
+    "Q1-012",
+    "Q1-024"
+  ],
+  "subconjunto": [
+    "Q1-014",
+    "Q1-008",
+    "Q1-005",
+    "Q1-011",
+    "Q1-003",
+    "Q1-015"
+  ],
+  "n_combinacoes_bf": 51450,
+  "otimo_bf": 108267.59541830805,
+  "politica_bf": [
+    1.1,
+    1.1,
+    1.1,
+    1.0,
+    1.1,
+    1.1
+  ],
+  "tempo_bf_ingenuo_s": 5.078746399998636,
+  "tempo_bf_vet_s": 0.03181860000040615,
+  "mem_bf_ingenuo_kib": 142.7578125,
+  "mem_bf_vet_kib": 25730.6220703125,
+  "gap_medio_pct": 0.0,
+  "gap_max_pct": 0.0,
+  "execucoes_otimas": 10,
+  "greedy_tempo_s": 0.04310239999904297,
+  "greedy_mem_kib": 84.5673828125,
+  "final": {
+    "caixa_preco_atual": 382701.46248000005,
+    "caixa_politica_ga": 536125.9118327573,
+    "caixa_final_ga_greedy": 536157.5484482006,
+    "meta_caixa": 362210.17,
+    "meta_atingida": true,
+    "folga_ou_insuficiencia": 173947.3784482006,
+    "divida_90d": 355454.0,
+    "cobertura_divida_pct": 150.8373934315553,
+    "receita_bruta": 2770341.68823597,
+    "margem_contribuicao_media_pct": 21.33514361793828,
+    "custo_armazenagem_estoque_rem": 55067.81614674531,
+    "unidades_vendidas": 3137.54121963749,
+    "estoque_inicial_un": 4819,
+    "estoque_remanescente_un": 1681.4587803625097,
+    "estoque_remanescente_custo": 784816.9514797105,
+    "orcamento_promocional": 129986.3,
+    "orcamento_usado": 3642.0399999999936,
+    "orcamento_usado_pct": 2.8018645041823587,
+    "skus_com_desconto": 0,
+    "skus_mantidos": 1,
+    "skus_com_aumento": 26,
+    "skus_fora_campanha": [
+      "Q1-002",
+      "Q1-012",
+      "Q1-024"
+    ],
+    "cenario_verba_carimbada": {
+      "orcamento_usado": 128318.60309472983,
+      "caixa_liquido": 470252.0206718136,
+      "ganho_bruto": 62444.71193378599,
+      "unidades_extra": 345.9394593862203
+    },
+    "config_vencedora": "A: pop=40, torneio=2, pm=0.033"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "questao": "questao_01",
+  "grupo": "G01",
+  "gerado_em_utc": "2026-10-27T01:28:19+00:00",
+  "comando": "python questao_01/main.py --modo completo",
+  "seeds": {
+    "seed_base": 28,
+    "seed_final": 1028,
+    "ga_subconjunto": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "ga_catalogo": [
+      1028,
+      1029,
+      1030,
+      1031,
+      1032
+    ],
+    "precos_permitidos": 28
+  },
+  "quantidade_skus": 30,
+  "skus": [
+    "Q1-001",
+    "Q1-003",
+    "Q1-004",
+    "Q1-005",
+    "Q1-006",
+    "Q1-007",
+    "Q1-008",
+    "Q1-009",
+    "Q1-010",
+    "Q1-011",
+    "Q1-013",
+    "Q1-014",
+    "Q1-015",
+    "Q1-016",
+    "Q1-017",
+    "Q1-018",
+    "Q1-019",
+    "Q1-020",
+    "Q1-021",
+    "Q1-022",
+    "Q1-023",
+    "Q1-025",
+    "Q1-026",
+    "Q1-027",
+    "Q1-028",
+    "Q1-029",
+    "Q1-030"
+  ],
+  "metas_financeiras": {
+    "meta_caixa_90d": 362210.17,
+    "divida_total_90d": 355454.0,
+    "orcamento_promocional": 129986.3,
+    "margem_minima_percentual": 0.0848
+  },
+  "arquivos": {
+    "q1_config_G01.json": {
+      "sha256": "d7d9c7d882c7c12d1aeaf05a24e06e572668971d5d1251e0c12e25223bc43bd0",
+      "status": "ok"
+    },
+    "q1_catalogo_G01.csv": {
+      "sha256": "93b4abd260c27e441974cdfa29d80b1b072608e9a7c0078331c5876117e91fe3",
+      "status": "ok"
+    }
+  },
+  "sha256_dataset": "d2460a0c139e20ab170ec957aa9ce28beb8c8c6bfd4b2643b56fa2b0097bde8f",
+  "dados_conferem_com_manifesto_oficial": true,
+  "parametros_execucao": {
+    "modo": "completo",
+    "meta_fator": 1.0,
+    "logistica_fator": 1.0,
+    "orcamento_fator": 1.0,
+    "remover_sku": [],
+    "ga": [
+      {
+        "nome": "A: pop=40, torneio=2, pm=0.033",
+        "populacao": 40,
+        "torneio": 2,
+        "p_mutacao": 0.03333333333333333,
+        "elitismo": 1,
+        "geracoes_max": 500,
+        "paciencia": 80
+      },
+      {
+        "nome": "B: pop=120, torneio=4, pm=0.050",
+        "populacao": 120,
+        "torneio": 4,
+        "p_mutacao": 0.05,
+        "elitismo": 2,
+        "geracoes_max": 500,
+        "paciencia": 80
+      }
+    ],
+    "subconjunto": [
+      "Q1-014",
+      "Q1-008",
+      "Q1-005",
+      "Q1-011",
+      "Q1-003",
+      "Q1-015"
+    ]
+  },
+  "ambiente": {
+    "python": "3.14.6",
+    "plataforma": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.4.4",
+    "pandas": "3.1.0",
+    "matplotlib": "3.10.9"
+  }
+}

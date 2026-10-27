@@ -1,0 +1,31 @@
+sku,categoria,idade_estoque_dias,precos_permitidos,n_niveis,fora_da_campanha
+Q1-001,Beleza,74,"0.95, 1.00, 1.05, 1.10",4,False
+Q1-002,Moveis,256,1.00,1,True
+Q1-003,Moda,251,"0.80, 0.85, 0.90, 0.95, 1.00, 1.05, 1.10",7,False
+Q1-004,Moveis,66,1.10,1,False
+Q1-005,Casa_Utilidades,253,"0.80, 0.85, 0.90, 0.95, 1.00, 1.05, 1.10",7,False
+Q1-006,Eletrodomesticos,184,"1.00, 1.05, 1.10",3,False
+Q1-007,Moveis,209,"1.00, 1.05, 1.10",3,False
+Q1-008,Beleza,194,"0.80, 0.85, 0.95, 1.00, 1.05, 1.10",6,False
+Q1-009,Informatica,174,1.10,1,False
+Q1-010,Eletronicos,109,1.10,1,False
+Q1-011,Casa_Utilidades,234,"0.80, 0.85, 0.90, 0.95, 1.00",5,False
+Q1-012,Eletrodomesticos,323,1.00,1,True
+Q1-013,Beleza,81,1.05,1,False
+Q1-014,Beleza,359,"0.80, 0.85, 0.90, 0.95, 1.00, 1.05, 1.10",7,False
+Q1-015,Moda,27,"0.90, 0.95, 1.00, 1.05, 1.10",5,False
+Q1-016,Casa_Utilidades,80,"0.90, 1.00, 1.05, 1.10",4,False
+Q1-017,Eletronicos,102,1.10,1,False
+Q1-018,Eletrodomesticos,233,"1.00, 1.05, 1.10",3,False
+Q1-019,Informatica,200,1.05,1,False
+Q1-020,Informatica,146,"1.00, 1.05, 1.10",3,False
+Q1-021,Beleza,345,"0.90, 1.00, 1.05, 1.10",4,False
+Q1-022,Eletrodomesticos,219,"1.00, 1.05, 1.10",3,False
+Q1-023,Casa_Utilidades,78,"0.90, 0.95, 1.00, 1.05, 1.10",5,False
+Q1-024,Informatica,81,1.00,1,True
+Q1-025,Eletronicos,199,"0.95, 1.00, 1.05, 1.10",4,False
+Q1-026,Informatica,249,"1.05, 1.10",2,False
+Q1-027,Eletronicos,360,"0.90, 1.00, 1.10",3,False
+Q1-028,Casa_Utilidades,52,"0.90, 0.95, 1.00, 1.05",4,False
+Q1-029,Eletrodomesticos,42,"1.05, 1.10",2,False
+Q1-030,Moveis,323,"1.00, 1.10",2,False

@@ -1,0 +1,5 @@
+caso,chamadas,subproblemas,acertos_cache,tempo_s
+"Top-Down COM memo, 12 semanas",74122.0,610.0,66088,0.04699190000064846
+"Top-Down COM memo, 3 semanas",9916.0,88.0,3332,0.005358899999919231
+"Top-Down SEM memo, 3 semanas",1455780.0,,0,0.7710664000005636
+"Bottom-Up, catálogo (24 SKUs)",,61560.0,25774684,0.9342612000000372

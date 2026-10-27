@@ -1,0 +1,33 @@
+{
+  "rho_escolhido": 0.1,
+  "n_construcao": 2000,
+  "n_validacao": 5000,
+  "seeds": {
+    "construcao": 28,
+    "validacao": 1028
+  },
+  "p_pagamento": {
+    "semana_4": 1.0,
+    "semana_8": 1.0,
+    "semana_12": 0.9996,
+    "todas": 0.9996
+  },
+  "caixa_final_esperado": 180915.52562268253,
+  "caixa_final_p5": 104465.10420394575,
+  "margem_contrib_pct": 23.145210813675217,
+  "estoque_final_medio": 1253.6848,
+  "estoque_inicial": 5106,
+  "cenarios_falha": 2,
+  "atende_limite_risco": true,
+  "greedy": {
+    "alocacoes": 15,
+    "gasto_planejado": 5250.0,
+    "orcamento_total": 71994.72
+  },
+  "dp_info": {
+    "estados": 61560,
+    "leituras": 25774684
+  },
+  "tempo_greedy_s": 0.23276249999980791,
+  "tempo_validacao_s": 0.14094729999851552
+}
